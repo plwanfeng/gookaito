@@ -1,5 +1,7 @@
-使用命令：
+使用方法：
+
 安装依赖：pip install -r requirements.txt
+
 python3 gookaito.py
 
 

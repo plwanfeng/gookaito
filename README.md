@@ -5,4 +5,5 @@
 python3 gookaito.py
 
 
-![e3ca7177f1a65b7a6b27d8fc0c3a52a](https://github.com/user-attachments/assets/111e59af-4874-43cb-bf84-1985b14265ce)
+![396a26ccc41f2cec321e4d70bd31e0b](https://github.com/user-attachments/assets/989e68da-e720-4402-89ba-b80fb3e46de8)
+
